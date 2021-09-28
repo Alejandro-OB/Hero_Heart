@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Terrain
+  - Enemy2
+  - Enemy3
+  - FireBall
+  - check1
+  - check2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Fondo
+  - Water
+  - UI
+  - Paleta
+  - Suelo
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fondo
+    uniqueID: 2308382891
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Accesorios
+    uniqueID: 2839472515
+    locked: 0
+  - name: Casa
+    uniqueID: 1285795703
+    locked: 0
+  - name: Paleta
+    uniqueID: 2998354191
+    locked: 0

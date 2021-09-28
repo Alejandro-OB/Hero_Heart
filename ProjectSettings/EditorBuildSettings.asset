@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/JUEGO/Scenes/Menuprincipal.unity
+    guid: a078bedd474de2045ae529e2e374aafb
+  - enabled: 1
+    path: Assets/JUEGO/Scenes/Inicio.unity
+    guid: c9fda903181ca9841b0c19125d265a31
+  - enabled: 1
+    path: Assets/JUEGO/Scenes/NewFolder/VillaEncantada.unity
+    guid: 3851a6b069c7b374a9e4a191ba6c5141
+  - enabled: 1
+    path: Assets/JUEGO/Scenes/NewFolder/Cavernas.unity
+    guid: 3e1528ddcd63ae34a9df43293e6e423d
+  - enabled: 1
+    path: Assets/JUEGO/Scenes/NewFolder/Pantano.unity
+    guid: 8014e74240f3d4b408c475eae89d0167
+  - enabled: 1
+    path: Assets/JUEGO/Scenes/NewFolder/Castillo.unity
+    guid: dd68a61a83e0dc0418763519f87b3038
+  - enabled: 1
+    path: Assets/JUEGO/Scenes/NewFolder/Armeria.unity
+    guid: e55d676ded291624da2d710c310f2cba
+  - enabled: 1
+    path: Assets/JUEGO/Scenes/FiN.unity
+    guid: 5568c785106385b4ebc618ea59319092
+  - enabled: 1
+    path: Assets/JUEGO/Scenes/NewFolder/Villa.unity
+    guid: 6b8d4447636db914bacf0ef11d710865
+  - enabled: 1
+    path: Assets/JUEGO/Scenes/NewFolder/Topo.unity
+    guid: 7393b055e6126754d87bcf5ef5321e56
+  m_configObjects: {}
