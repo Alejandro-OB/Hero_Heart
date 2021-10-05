@@ -2,7 +2,7 @@
 
 ![](https://i.postimg.cc/xdMBKqmd/Captura-de-pantalla-2021-09-01-150312-preview-rev-1.png)
 
-Hero Heart is an academic project carried out by electronic engineering and telecommunications students from the Universidad del Cauca.
+Hero Heart is an academic project carried out by Electronic Engineering and Telecommunications students from the Universidad del Cauca.
 
 **Installation**
 
